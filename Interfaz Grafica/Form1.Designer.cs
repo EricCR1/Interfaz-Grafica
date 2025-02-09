@@ -163,14 +163,16 @@
             // acercaDeToolStripMenuItem1
             // 
             acercaDeToolStripMenuItem1.Name = "acercaDeToolStripMenuItem1";
-            acercaDeToolStripMenuItem1.Size = new Size(154, 26);
+            acercaDeToolStripMenuItem1.Size = new Size(180, 26);
             acercaDeToolStripMenuItem1.Text = "Acerca de";
+            acercaDeToolStripMenuItem1.Click += acercaDeToolStripMenuItem1_Click;
             // 
             // salirToolStripMenuItem
             // 
             salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            salirToolStripMenuItem.Size = new Size(154, 26);
+            salirToolStripMenuItem.Size = new Size(180, 26);
             salirToolStripMenuItem.Text = "Salir";
+            salirToolStripMenuItem.Click += salirToolStripMenuItem_Click;
             // 
             // menuStrip1
             // 

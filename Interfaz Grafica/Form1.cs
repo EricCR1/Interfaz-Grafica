@@ -79,5 +79,15 @@ namespace Interfaz_Grafica
                 MessageBox.Show("Selecciona un contacto para eliminar.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void acercaDeToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Realizador por: \n \n Eric Cabrera \n 23760307 \n 4SA", "Acerca de", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
