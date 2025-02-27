@@ -30,6 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="control.Cruz">
+      <HintPath>..\..\control.Cruz.dll</HintPath>
+    </Reference>
+    <Reference Include="Controladores">
+      <HintPath>..\Interfaz Grafica\obj\Debug\net8.0-windows\Controladores.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

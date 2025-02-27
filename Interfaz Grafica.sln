@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control_Imagen", "Control_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisorDeImagenes", "VisorDeImagenes\VisorDeImagenes.csproj", "{83906347-E5CE-48F7-830A-C0B4683504F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{90D0B640-8227-422B-AC20-6BF4923889B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica3", "Practica3\Practica3.csproj", "{9547F97F-FF30-476B-AF40-32498909D0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{83906347-E5CE-48F7-830A-C0B4683504F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83906347-E5CE-48F7-830A-C0B4683504F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83906347-E5CE-48F7-830A-C0B4683504F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D0B640-8227-422B-AC20-6BF4923889B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D0B640-8227-422B-AC20-6BF4923889B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D0B640-8227-422B-AC20-6BF4923889B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D0B640-8227-422B-AC20-6BF4923889B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9547F97F-FF30-476B-AF40-32498909D0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9547F97F-FF30-476B-AF40-32498909D0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9547F97F-FF30-476B-AF40-32498909D0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9547F97F-FF30-476B-AF40-32498909D0D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
